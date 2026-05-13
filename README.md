@@ -38,21 +38,20 @@ The design focuses on compact PCB layout, embedded hardware integration, and eff
 
 ## PCB Schematic
 
-![Schematic](<img width="1062" height="574" alt="Screenshot 2026-05-13 192641" src="https://github.com/user-attachments/assets/28f7b133-a8a9-417f-89bc-ad8936ce637b" />
+(<img width="1062" height="574" alt="Screenshot 2026-05-13 192641" src="https://github.com/user-attachments/assets/28f7b133-a8a9-417f-89bc-ad8936ce637b" />
 )
 
 ---
 
 ## PCB Layout
-
-![PCB Layout](<img width="917" height="820" alt="Screenshot 2026-05-13 192738" src="https://github.com/user-attachments/assets/1c89a5dc-4280-4daf-af52-917d2cf1578e" />
+(<img width="917" height="820" alt="Screenshot 2026-05-13 192738" src="https://github.com/user-attachments/assets/1c89a5dc-4280-4daf-af52-917d2cf1578e" />
 )
 
 ---
 
 ## 3D PCB View
 
-![3D PCB](<img width="697" height="780" alt="Screenshot 2026-05-13 192830" src="https://github.com/user-attachments/assets/d11b91c3-22eb-4c6e-af8b-1f375d5138f1" />
+(<img width="697" height="780" alt="Screenshot 2026-05-13 192830" src="https://github.com/user-attachments/assets/d11b91c3-22eb-4c6e-af8b-1f375d5138f1" />
 )
 
 ---
@@ -60,10 +59,6 @@ The design focuses on compact PCB layout, embedded hardware integration, and eff
 ## Design Software
 
 - KiCad 8
-- STM32CubeIDE
-- Embedded C
-
----
 
 ## Design Highlights
 
@@ -81,6 +76,6 @@ The design focuses on compact PCB layout, embedded hardware integration, and eff
 - Embedded Robotics Projects
 - Servo Motor Control Systems
 - Wireless Robot Interfaces
-- Educational Embedded Systems
+
 
 ---
